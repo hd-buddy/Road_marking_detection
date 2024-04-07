@@ -10,3 +10,6 @@ Using U-Net Architecture and then contour plotting(with help of cv2 library).
 The Dataset used to train was AU drone dataset.
 Collected by a Ph.D. Scholar at Ahmedabad University `Yagnik Bhavsar`.\
 A special Thanks to `Prof. Mehul Raval` to give me this oppurtunity to work on this peoject.
+
+* Here I have loaded my pretrained model configuration, the original achitecture is not publish.
+* If you want to know more about the architecture contact me on dmhingu.personal@gmail.com 
